@@ -1,0 +1,25 @@
+/*Stylesheet*/
+*{
+   font-family: Arial, Helvetica, sans-serif;
+   background-color: lightgray;
+   box-sizing: border-box;
+}
+body {
+    text-align: center;
+}
+.title{
+    padding: 5px;
+    border: 2px solid black;
+    margin: auto 100px auto 100px;
+}
+.images{
+    padding: 10px;
+    margin: 20px;
+}
+.link-list{
+    align-content: center;
+    list-style-position: inside;
+}
+.steps{
+    text-align: left;
+}
